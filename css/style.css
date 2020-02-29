@@ -1,0 +1,41 @@
+header{
+height: 5%;
+background-color: #444444;}
+nav ul li{
+    text-align: center;
+    display: inline-block;
+    padding: 3%;
+ }
+ a{    
+    color: #969696;
+    font-size: 150%;
+    padding-bottom: 3%;
+ }
+ main div{
+    text-align: center;
+    padding: 1%;
+      }
+
+main div ul li {
+    display: inline-block;
+    padding: 1%;
+}    
+main div li p{
+    width: 445px;
+    height: 340px;
+    overflow: auto;
+}  
+footer{
+    height: 100px;
+    
+    background-color: #444444;}
+button{
+    height: 35px;
+    width: 179px;
+    background-color: black;
+    color: #969696;
+    margin-left: -235px;
+    clear: both;
+    float: left;
+}    
+
