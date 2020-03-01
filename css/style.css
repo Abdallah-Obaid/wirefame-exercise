@@ -7,7 +7,7 @@ nav{
 nav img{
     
     float: left;
-    margin-left:  10%;
+    margin-left: -2%;
     margin-top:1% ;
 }
 nav ul li{
@@ -19,10 +19,13 @@ nav ul li{
 
 
  a{    
+     float: left;
     color: #969696;
     font-size: 150%;
     padding-bottom: 5%;
     text-decoration: none;
+
+    margin-bottom: 15px;
  }
  main div{
     text-align: center;
