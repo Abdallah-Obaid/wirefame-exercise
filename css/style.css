@@ -1,15 +1,28 @@
 header{
-height: 5%;
+height: 100%;
 background-color: #444444;}
-nav ul li{
+nav{
     text-align: center;
+}
+nav img{
+    
+    float: left;
+    margin-left:  10%;
+    margin-top:1% ;
+}
+nav ul li{
+       text-align: center;
+
     display: inline-block;
     padding: 3%;
  }
+
+
  a{    
     color: #969696;
     font-size: 150%;
-    padding-bottom: 3%;
+    padding-bottom: 5%;
+    text-decoration: none;
  }
  main div{
     text-align: center;
